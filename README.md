@@ -1,1 +1,1 @@
-@Hari-Harish-24
+This project was done by myself and my partner @Navinashri .It is a web based front end project . This project is used to manage wastage foods in a useful way. Every day the people are wasting lots of foods. So we have to reduce that food wastage problem through online.This is just a front end idea of our project.
