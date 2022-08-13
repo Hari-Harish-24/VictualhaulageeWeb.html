@@ -1,0 +1,39 @@
+div{
+    color:red
+}
+.PROGRAD{
+    color:black;
+    font-family: 'Roboto Serif', serif;
+    font-size: 38px;
+}
+#P{
+    color:red
+}
+#R{
+    color:blue
+}
+#O{
+    color:green
+}
+#G{
+    color:black
+}
+#R{
+    color:brown
+}
+#A{
+    color: green;
+}
+#D{
+    color: yellow;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+<video width="320" height="240" autoplay muted>
+<source src="warning-not-available.gif" type="video/mp4">
+</video>
